@@ -1,0 +1,15 @@
+.heding {
+  color: whitesmoke;
+  background-color: #000;
+  font-family: monospace;
+}
+
+ul {
+  color: rgba(210, 20, 41, 0.397);
+}
+.boxingSport {
+  /*width: 100%;
+  height: auto;*/
+  width: 100px;
+  height: 100px;
+}
